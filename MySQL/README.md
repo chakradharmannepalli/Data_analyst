@@ -1,0 +1,1 @@
+The main source is avaible in https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/Beginner%20-%20Parks_and_Rec_Create_db.sql the source and credits goes to Mr.Alex I have learning from his youtube channel and completed the projects
